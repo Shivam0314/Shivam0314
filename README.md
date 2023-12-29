@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shivam1431
+- 👋 Hi, I’m @Shivam0314
 - 👀 I’m interested in Python Programming
 - 🌱 I’m currently learning Data Structure and Algorithm, Data Science
 - 💞️ I’m looking to collaborate as Python Developer
@@ -7,6 +7,6 @@
      2. LinkedIn: https://www.linkedin.com/in/shivam1482/
 
 <!---
-Shivam1431/Shivam1431 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Shivam0314/Shivam0314 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
