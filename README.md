@@ -4,9 +4,9 @@
 
 💻 Passionate Full-Stack Developer who loves building production-like systems and solving real-world problems through clean, scalable code.
 
-🌱 Currently deepening my skills in **Data Structures & Algorithms**, **Microservices Architecture** and **FastAPI**.
+🌱 Currently deepening my skills in **Data Structures & Algorithms**, **Data Science**, and **Microservices Architecture**
 
-🤝 Open to collaborating on **Java + Spring Boot**, **React**, and/or **Python** projects
+🤝 Open to collaborating on **Java + Spring Boot**, **React**, or **Python** projects
 
 ---
 
@@ -59,19 +59,11 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shivam0314&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam0314&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shivam%20Mishra-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam1482/)
-[![Instagram](https://img.shields.io/badge/Instagram-@shivam_.1406-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/shivam_.1406)
-[![GitHub](https://img.shields.io/badge/GitHub-Shivam0314-181717?style=flat&logo=github&logoColor=white)](https://github.com/Shivam0314)
-
+[LinkedIn](https://www.linkedin.com/in/shivam1482/)  
+[Instagram](https://instagram.com/shivam_.1406)  
+[GitHub](https://github.com/Shivam0314)
 ---
 
 ## ✨ Fun Fact
