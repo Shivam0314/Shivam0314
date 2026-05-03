@@ -61,9 +61,8 @@
 
 ## 🌐 Connect with Me
 
-[LinkedIn](https://www.linkedin.com/in/shivam1482/)  
-[Instagram](https://instagram.com/shivam_.1406)  
-[GitHub](https://github.com/Shivam0314)
+instagram: @shivam_.1406
+LinkedIn: https://www.linkedin.com/in/shivam1482/
 ---
 
 ## ✨ Fun Fact
